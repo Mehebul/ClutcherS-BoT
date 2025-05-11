@@ -1,7 +1,7 @@
 {
     "token": "",
     "language": "en",
-    "prefix": "!",
+    "prefix": "$",
     "mongodbUri": "mongodb+srv://lucifer:lucifer@cluster0.6z327tz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
     "excessCommands": {
         "utility": true,
